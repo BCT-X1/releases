@@ -4,6 +4,7 @@ All available builds for download.
 
 | App | Version | Type | Date | Download |
 |---------|---------|------|------|----------|
+| SCANMEDIA | 1.1.0 (+2) | Debug (Pre-release) | 2026-04-01 | [Download](https://github.com/BCT-X1/releases/releases/tag/scanmedia-debug-1.1.0-2) |
 | SCANMEDIA | 1.0.0 (+1) | Release | 2026-03-07 | [Download](https://github.com/BCT-X1/releases/releases/tag/scanmedia-1.0.0-1) |
 | SCANMEDIA | 1.0.0 (+1) | Debug (Pre-release) | 2026-03-07 | [Download](https://github.com/BCT-X1/releases/releases/tag/scanmedia-debug-1.0.0-1) |
 | SCANMEDIA | 1.0.0 (+0) | Debug (Pre-release) | 2026-03-07 | [Download](https://github.com/BCT-X1/releases/releases/tag/scanmedia-debug-1.0.0-0) |
