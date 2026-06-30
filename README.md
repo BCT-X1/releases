@@ -4,6 +4,7 @@ All available builds for download.
 
 | App | Version | Type | Date | Download |
 |---------|---------|------|------|----------|
+| SCANMEDIA | 2.0.0.0 | Release | 2026-06-30 | [Download](https://github.com/BCT-X1/releases/releases/tag/scanmedia-2.0.0.0) |
 | SCANMEDIA | 2.0.0.0 | Debug (Pre-release) | 2026-06-30 | [Download](https://github.com/BCT-X1/releases/releases/tag/scanmedia-debug-2.0.0.0) |
 | BCT-X1 | V2.0 (Build158G) | Release | 2026-06-30 | [Download](https://github.com/BCT-X1/releases/releases/tag/V2.0-Build158G) |
 | BCT-X1 | V2.0 (Build158G) | Debug (Pre-release) | 2026-06-30 | [Download](https://github.com/BCT-X1/releases/releases/tag/debug-V2.0-Build158G) |
